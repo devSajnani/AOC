@@ -36,7 +36,7 @@ data:$("#myForm").serializeArray(),
 success: function(){
 alert("We have recieved your message. Thank you!")
     document.getElementById("myForm").style.display='none';
-    document.getElementsByClassName("reply").style.display='block';
+    document.getElementById("reply").style.display='block';
 },
 error: function(){
 alert("There was an error in sending the message. Please try again.")

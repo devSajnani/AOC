@@ -35,7 +35,7 @@ span{
   color: black;
   font-size: 14px;  
   padding-top: 20;
-  
+  font-weight: lighter;
 }
 .form-container input[type=text], .form-container input[type=tel], .form-container input[type=email] {
 border-radius: 5px;
@@ -77,4 +77,11 @@ border-color: black;
     border-color: black;
     
     color:black;
+}
+#reply{
+    font-size: 16px;
+    padding-top: 2rem;
+}
+#small{
+    font-size: 13px;
 }
