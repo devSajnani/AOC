@@ -4,10 +4,8 @@ html, body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 header{
-    background: url(assets/images.jpeg) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background: url(assets/WhatsApp\ Image\ 2021-06-26\ at\ 14.49.26.jpeg); 
+    
     display: flex;
     justify-content: center;
     align-items: center;
